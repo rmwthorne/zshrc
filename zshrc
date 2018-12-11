@@ -9,7 +9,11 @@ antigen bundle heroku
 antigen bundle lein
 antigen bundle command-not-found
 
+# Git helpers
+antigen bundle djui/alias-tips
+
 # Navigation.
+antigen bundle mollifier/cd-gitroot
 antigen bundle wd
 
 # Syntax highlighting and completion.
